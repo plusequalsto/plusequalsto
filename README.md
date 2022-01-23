@@ -17,6 +17,10 @@
   <a href="https://www.plusequalsto.com" target="_blank" rel="noopener noreferrer">🌐 Check out our website</a>
 </p>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
+
 <!---
 plusequalsto/plusequalsto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
