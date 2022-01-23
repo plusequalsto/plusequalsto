@@ -18,8 +18,8 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=plusequalsto&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plusequalsto&layout=compact" />
 
 <!---
 plusequalsto/plusequalsto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
