@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <a href="https://www.plusequalsto.com" target="_blank">🌐 Check out my website</a>
+  <a href="https://www.plusequalsto.com" target="_blank" rel="noopener noreferrer">🌐 Check out our website</a>
 </p>
 
 <!---
